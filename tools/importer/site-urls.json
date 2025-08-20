@@ -101,7 +101,7 @@
     }
   ],
   "crawlOptions": {
-    "timeout": 64800000,
+    "timeout": 64000000,
     "inclusionPatterns": [],
     "exclusionPatterns": [],
     "limit": 100,
