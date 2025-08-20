@@ -313,6 +313,13 @@
           "uuid": "6d882a22-15-0ae737a09397383214e05b1fa1396abc4ec26cdd",
           "xpath": "/html[1]/body[1]/main[1]/div[2]/div[8]/div[1]/div[2]",
           "section": "section-6"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/appointment-support",
+          "urlHash": "6d882a223dfc522608bbfa25cd2420bd95abad40",
+          "uuid": "6d882a22-10-82721fe9317e432692b531b08945f0a90cc2fd56",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[6]/div[1]/div[2]",
+          "section": "section-7"
         }
       ]
     },
@@ -1275,13 +1282,6 @@
       "uuid": "6d882a22-09-f5dae8cc64c4cdbbcfa368f3a5c814e7af8bf713",
       "xpath": "/html[1]/body[1]/main[1]/div[2]/div[6]/div[1]/div[1]",
       "section": "section-2"
-    },
-    {
-      "url": "https://www.myelomaandme.co.uk/appointment-support",
-      "urlHash": "6d882a223dfc522608bbfa25cd2420bd95abad40",
-      "uuid": "6d882a22-10-82721fe9317e432692b531b08945f0a90cc2fd56",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[6]/div[1]/div[2]",
-      "section": "section-7"
     },
     {
       "url": "https://www.myelomaandme.co.uk/appointment-support",
