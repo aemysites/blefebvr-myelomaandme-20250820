@@ -1,0 +1,56 @@
+{
+  "templates": [
+    {
+      "name": "'Multi-purpose Service Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.myelomaandme.co.uk/find-what-matters-to-you",
+          "uuid": "8ab207df28d9be9f2e6cba1181a8c0e0d544dd09"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/diet",
+          "uuid": "35088c0b88edafa092d27aef4f94bffe1cf57a30"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/appointment-support",
+          "uuid": "6d882a223dfc522608bbfa25cd2420bd95abad40"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/connecting-with-others",
+          "uuid": "2ae97135d86886b16cc4c38485465f9fa34c58a9"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/managing-conversations",
+          "uuid": "01b4cb512ef239b2447fb1f98f0898fd4325266a"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/mental-health",
+          "uuid": "868a22bbc73ce1927c91c476165ffbad540c626f"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/physical-health",
+          "uuid": "1f21abfd783cd2cfd0b5546afadece89b71535c0"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/care-partner",
+          "uuid": "8f33aafcb8413900159a697d410e08fd1c9431c6"
+        },
+        {
+          "url": "https://www.myelomaandme.co.uk/communicating-effectively",
+          "uuid": "18f216fb37fe181476c3a20366cab5eb14b1a05f"
+        }
+      ]
+    },
+    {
+      "name": "\"Directory Listing\"",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.myelomaandme.co.uk/",
+          "uuid": "6320aff2a137321ed1d827fd7d642802517bba4d"
+        }
+      ]
+    }
+  ]
+}
